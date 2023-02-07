@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55556476/217273633-10808d7d-0d37-414e-9d5e-96901a21c4c0.png">
 </p>
+<p align="center">"No matter how devastated you may be by your own weakness or uselessness, set your heart ablaze. Grit your teeth and look straight ahead. Even if you stop and crouch down, time won’t wait for you or snuggle you and grieve along with you. Don’t feel bad that I’m going to die here. As a Hashira, of course I would shield my juniors" - Kyojuro Rengoku 🔥</p>
 
-  
+<br>
 <h1 align="center">Hi, I'm Juan Esteban 👌</h1>
 <h3 align="center">A passionate and curious frontend developer from Colombia</h3>
 <p align="center">I love to understand, scrutinize and build software. And of course a lover of cats, videogames, anime and bikes 🏍</p>
@@ -57,6 +58,3 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff" />
   </a>
 </div>
-
-<br>
-<p><q>No matter how devastated you may be by your own weakness or uselessness, set your heart ablaze. Grit your teeth and look straight ahead. Even if you stop and crouch down, time won’t wait for you or snuggle you and grieve along with you. Don’t feel bad that I’m going to die here. As a Hashira, of course I would shield my juniors</q> - Kyojuro Rengoku 🔥</p>
