@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55556476/217273633-10808d7d-0d37-414e-9d5e-96901a21c4c0.png">
+</p>
+
+  
 <h1 align="center">Hi, I'm Juan Esteban 👌</h1>
 <h3 align="center">A passionate and curious frontend developer from Colombia</h3>
 <p align="center">I love to understand, scrutinize and build software. And of course a lover of cats, videogames, anime and bikes 🏍</p>
