@@ -9,7 +9,7 @@
 <p align="center">I love to understand, scrutinize and build software. And of course a lover of cats, videogames, anime and bikes 🏍</p>
 <br>
 
-- 🔭 I’m currently working at [**COYTEX S.A.S**](https://www.coytex.com.co/) as a PHP, MariaDB, Bootstrap and jQuery fullstack developer
+- 🔭 I’m currently working at [**Inlaze**]([https://www.coytex.com.co/](https://inlaze.com/es/)) as Angular developer
 
 - 🌱 I’m currently learning **Angular**
 
