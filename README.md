@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Juan Esteban</h1>
 <h3 align="center">A passionate and curious web developer from Colombia</h3>
 <p align="center">I love to understand, scrutinize and build software. And of course a lover of cats, videogames, anime and bikes 🏍</p>
-<p>I am a web developer proficient in HTML, CSS and TypeScript with experience in Angular, React, NestJS and SQL. Committed to my continuous learning, driven by developing quality, maintainable and scalable code, aiming to deliver quality products that users love. I firmly believe that the best products are made in the company of people who love what they do and love to share with their own what they do best.</p>
+<p>I am a fullstack developer proficient in HTML, CSS and TypeScript with experience in Angular, React, NestJS and SQL. Committed to my continuous learning, driven by developing quality, maintainable and scalable code, aiming to deliver quality products that users love. I firmly believe that the best products are made in the company of people who love what they do and love to share with their own what they do best.</p>
 
 <h3 align="left">Connect with me</h3>
 
