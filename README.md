@@ -9,7 +9,7 @@
 
 - **Design systems:** I've built three component libraries (React + shadcn/ui, Angular CDK, Storybook) used across multiple products.
 - **Clean Architecture & DDD:** check out my [backend-template](https://github.com/eatteer/backend-template) (NestJS + MongoDB) and [frontend-template](https://github.com/eatteer/frontend-template) (React + Vite).
-- **AI-assisted development:** I build code templates and [Claude Code plugins](https://github.com/eatteer/architecture-marketplace) to help teams ship faster without sacrificing quality.
+- **AI-assisted development:** I build code templates and [architecture-marketplace](https://github.com/eatteer/architecture-marketplace) to help teams ship faster without sacrificing quality.
 
 <h3 align="left">Connect with me</h3>
 
